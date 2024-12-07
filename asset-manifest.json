@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c7b8a2f7.css",
+    "main.js": "/Portfolio/static/js/main.2ac48b7d.js",
+    "static/media/hg.jpg": "/Portfolio/static/media/hg.1bd8ac44a6524babef8a.jpg",
+    "static/media/about.png": "/Portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/ipl.jpg": "/Portfolio/static/media/ipl.f53a990739623518315c.jpg",
+    "static/media/resume.jpg": "/Portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/sum.jpg": "/Portfolio/static/media/sum.9b88cd9228f6ce198227.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.c7b8a2f7.css.map": "/Portfolio/static/css/main.c7b8a2f7.css.map",
+    "main.2ac48b7d.js.map": "/Portfolio/static/js/main.2ac48b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b8a2f7.css",
+    "static/js/main.2ac48b7d.js"
+  ]
+}
