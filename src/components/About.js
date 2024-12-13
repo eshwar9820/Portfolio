@@ -2,9 +2,9 @@ import AboutImg from '../assets/about.png';
 
 export default function About () {
     const config  = {
-        line1: 'Hi, Myself Eshwar, Currently pursuing MTech in Data Analytics',
-        line2: 'I did my Bachelors in CSE from College of Engineering Guidy',
-        line3: 'Im interested in Data Science and Front-end Development'
+        line1: 'Hi, Myself Eshwar, Currently pursuing MTech in Data Analytics at NIT Trichy',
+        line2: 'I did my Bachelors in CSE at College of Engineering Guidy',
+        line3: 'I Have a great interest in Data Science and Front-end Development'
     }
 
     return <section className='flex flex-col md:flex-row bg-secondary px-5' id='about'>

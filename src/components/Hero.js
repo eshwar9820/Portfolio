@@ -4,7 +4,8 @@ export default function Hero(){
     return <section className='flex flex-col px-5 py-32 bg-primary justify-center md:flex-row'>
         <div className='md:w-1/2 flex flex-col'>
             <h1 className=' text-white text-4xl font-hero-font'>Hi, <br/>I'm <span className='text-black'>Eshwar</span>
-            <p className='text-2xl'>MTech in Data analytics at NIT Trichy</p>
+            <p className='text-2xl'>MTech in Data analytics</p>
+            <p className='text-2xl'>NIT TRICHY | Data Enthusiast | Front-end Developer</p>
             </h1>
             <div className='flex py-5'>
                 <a href="https://x.com/Eshwar21178467" className='pr-5 hover:text-white'><AiOutlineTwitter size={40}/></a>
